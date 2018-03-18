@@ -1,0 +1,10 @@
+call read_input    
+call     get_data
+call read_input
+call get_data
+return   get_data
+return read_input     
+return get_data
+return  read_input  
+Valid trace
+Maximum call depth was: 4
