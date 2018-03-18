@@ -1,0 +1,6 @@
+i hello
+i goodbye
+q
+p
+i hi
+p

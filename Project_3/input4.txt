@@ -1,0 +1,14 @@
+i G
+i D
+i F
+i A
+i E
+i M
+i K
+i Z
+e 'G M Z A A F A D'
+d 'r r0 r00 r01 r11 r00000'
+p
+r G
+p
+q
